@@ -1,0 +1,10 @@
+A JDBC Progect- Phonebook Management System
+It includes following features:
+-A userlogin page
+-A user registration page
+-User Phonebook features:
+   -Add Contact
+   -View contact
+   -edit contact
+   -delete contact
+-Logout 
